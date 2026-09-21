@@ -1,6 +1,6 @@
 # Peg Solitaire - AI Solver
 
-This repository contains an AI solver and a playable web version for the classic solo board game **Peg Solitaire**. 
+This repository contains a custom built AI solver and a playable web version for the classic solo board game **Peg Solitaire**. 
 
 Currently, the project supports three board configurations:
 * **English** (Standard 7x7)
