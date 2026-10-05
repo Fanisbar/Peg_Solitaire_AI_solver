@@ -42,3 +42,8 @@ If you are using Windows Subsystem for Linux (WSL) and the visualization window 
 export DISPLAY=:0
 python solver.py english
 ```
+
+
+### Future Work
+Make the solver work for more valid board configs
+Maybe even recognize if a board config is valid/solvable
